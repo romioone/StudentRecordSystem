@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36401.2 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentRecordSystem", "StudentRecordSystem\StudentRecordSystem.csproj", "{D6BCBFC5-2F52-4A2B-8052-4DB0DC0CAEBF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentRecordSystem", "StudentRecordSystem\StudentRecordSystem.csproj", "{5AD01B54-AF96-423F-976A-91F0848845BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D6BCBFC5-2F52-4A2B-8052-4DB0DC0CAEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D6BCBFC5-2F52-4A2B-8052-4DB0DC0CAEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D6BCBFC5-2F52-4A2B-8052-4DB0DC0CAEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D6BCBFC5-2F52-4A2B-8052-4DB0DC0CAEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD01B54-AF96-423F-976A-91F0848845BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD01B54-AF96-423F-976A-91F0848845BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD01B54-AF96-423F-976A-91F0848845BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD01B54-AF96-423F-976A-91F0848845BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AC049E22-A9DA-4F36-939B-2C4C8B2721A8}
+		SolutionGuid = {55AB7A41-E5C0-4BAE-BDEB-D3B032F12238}
 	EndGlobalSection
 EndGlobal
